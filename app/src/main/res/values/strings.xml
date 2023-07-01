@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Easy food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="cook_text">What Would You Like To Cook </string>
+    <string name="cook_text1">Over Popular Items </string>
+    <string name="cook_text2">Categories </string>
+    <string name="scroll_toolbar">scroll_toolbar</string>
+    <string name="floating_btn">floating_btn</string>
+    <string name="todo">TODO</string>
+</resources>
